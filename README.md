@@ -35,6 +35,7 @@
 		sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 		
 ***Finalmente Instalando essa delicia***
+
 		curl https://raw.githubusercontent.com/sostenesfreitas/Oh-Miojo-Zsh/master/oh-my-zsh.sh > ~/.oh-my-zsh/
 		curl https://raw.githubusercontent.com/sostenesfreitas/Oh-Miojo-Zsh/master/.zshrc > ~/.zshrc
 

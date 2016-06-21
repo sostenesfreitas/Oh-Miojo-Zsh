@@ -85,3 +85,5 @@ source $ZSH/oh-my-zsh.sh
 
 alias c='screenfetch | lolcat'
 alias hue='lolcat'
+alias l='ls -lFh | lolcat' 
+alias ll='ls -al | lolcat' 

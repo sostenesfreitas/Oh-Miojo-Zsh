@@ -9,7 +9,7 @@
 ***Requisitos(screenfetch,lolcat,zsh e oh-my-zsh instalados)***
 
 ***Arch Linux:***
-	        ```
+	        
 		sudo pacman -S screenfetch.
 		
 		sudo pacman -S lolcat.
@@ -19,7 +19,7 @@
 		Oh-My-Zsh via 'curl' ou 'wget' 
 		sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 					            
-		sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"			```
+		sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"			
 		
 ***Debian,Ubuntu...:***
 		

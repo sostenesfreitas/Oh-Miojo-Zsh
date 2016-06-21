@@ -36,8 +36,8 @@
 		
 ***Finalmente Instalando essa delicia***
 
-		curl https://raw.githubusercontent.com/sostenesfreitas/Oh-Miojo-Zsh/master/oh-my-zsh.sh > ~/.oh-my-zsh/
-		curl https://raw.githubusercontent.com/sostenesfreitas/Oh-Miojo-Zsh/master/.zshrc > ~/.zshrc
+	curl https://raw.githubusercontent.com/sostenesfreitas/Oh-Miojo-Zsh/master/oh-my-zsh.sh > ~/.oh-my-zsh/oh-my-zsh.sh
+	curl https://raw.githubusercontent.com/sostenesfreitas/Oh-Miojo-Zsh/master/.zshrc > ~/.zshrc
 
 #Alterações Feitas
 

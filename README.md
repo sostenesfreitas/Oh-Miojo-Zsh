@@ -8,11 +8,14 @@
 
 ***Requisitos(screenfetch,lolcat,zsh e oh-my-zsh instalados)***
 	       
-	        Arch Linux:
+	       Arch Linux:
 	        
 		sudo pacman -S screenfetch.
+		
 		sudo pacman -S lolcat.
+		
 		sudo pacman -S zsh.
+		
 		Oh-My-Zsh via 'curl' ou 'wget' 
 		sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 					            #ou
@@ -21,16 +24,19 @@
 		Debian,Ubuntu...:
 		
 		sudo apt-get install screenfetch.
+		
 		sudo apt-get install lolcat.
+		
 		sudo apt-get install zsh.
+		
 		Oh-My-Zsh via 'curl' ou 'wget' 
 		sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 					            #ou
 		sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 		
 ***Finalmente Instalando essa delicia***
-	curl https://raw.githubusercontent.com/sostenesfreitas/Oh-Miojo-Zsh/master/oh-my-zsh.sh > ~/.oh-my-zsh/
-	curl https://raw.githubusercontent.com/sostenesfreitas/Oh-Miojo-Zsh/master/.zshrc > ~/.zshrc
+		curl https://raw.githubusercontent.com/sostenesfreitas/Oh-Miojo-Zsh/master/oh-my-zsh.sh > ~/.oh-my-zsh/
+		curl https://raw.githubusercontent.com/sostenesfreitas/Oh-Miojo-Zsh/master/.zshrc > ~/.zshrc
 
 #Alterações Feitas
 

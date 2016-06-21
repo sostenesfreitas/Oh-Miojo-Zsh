@@ -9,7 +9,7 @@
 1. Alguns Alias adicionados exemplo:
 
 	****l = ls | lolcat****
-![ls | lolcat](http://imgur.com/Kqbfx98)
+![ls | lolcat](http://i.imgur.com/Kqbfx98.png)
 
 	****c = screenfetch | lolcat *****
 ![screenfetch](http://imgur.com/qVc8wWo)

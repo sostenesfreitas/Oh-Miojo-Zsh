@@ -6,7 +6,8 @@
 
 #Instalação
 
-	***Requisitos(screenfetch e lolcat instalados***
+***Requisitos(screenfetch e lolcat instalados***
+	       
 	        ```
 		ArchLinux = sudo pacman -S screenfetch.
 		Debian,Ubuntu... = sudo apt-get install screenfetch.
@@ -37,22 +38,30 @@
 
 #2. Plugins:
 
+**catimg**
+
 ![catimg](http://i.imgur.com/gwyjosA.png)
 
 **Web-Search**	
 ![Web-Search](http://i.imgur.com/6CcFSe7.png)
+
+
 **Youtube**
+
 ![Youtube Search](http://i.imgur.com/vbKYcSI.png)
+
+
 **Google**
+
 ![Google Search](http://i.imgur.com/jtyosKQ.png)
 
-[Git](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git)
+#[Git](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugin:git)
 ![git](http://i.imgur.com/cOYYaNk.png)
 	
-[cURL-like tool for humans](https://github.com/jkbrzt/httpie)
+#[cURL-like tool for humans](https://github.com/jkbrzt/httpie)
 ![http](http://i.imgur.com/i2umgZm.png)
 
-[Json](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/jsontools)
+#[Json](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/jsontools)
 ![json](http://i.imgur.com/nUpnJta.png)
 
 #3. Tema usado [fino](http://zshthem.es/all/):

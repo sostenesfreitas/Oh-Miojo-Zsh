@@ -7,7 +7,8 @@
 #Instalação
 
 ***Requisitos(screenfetch,lolcat,zsh e oh-my-zsh instalados)***
-****Arch Linux:****
+
+***Arch Linux:***
 	        
 		sudo pacman -S screenfetch.
 		
@@ -17,10 +18,10 @@
 		
 		Oh-My-Zsh via 'curl' ou 'wget' 
 		sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-					            #ou
+					            
 		sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"			
 		
-****Debian,Ubuntu...:*****
+***Debian,Ubuntu...:****
 		
 		sudo apt-get install screenfetch.
 		
@@ -30,7 +31,7 @@
 		
 		Oh-My-Zsh via 'curl' ou 'wget' 
 		sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-					            #ou
+					            
 		sh -c "$(wget https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
 		
 ***Finalmente Instalando essa delicia***

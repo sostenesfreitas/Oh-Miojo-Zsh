@@ -38,6 +38,10 @@
 
 	curl https://raw.githubusercontent.com/sostenesfreitas/Oh-Miojo-Zsh/master/oh-my-zsh.sh > ~/.oh-my-zsh/oh-my-zsh.sh
 	curl https://raw.githubusercontent.com/sostenesfreitas/Oh-Miojo-Zsh/master/.zshrc > ~/.zshrc
+	
+	vim ou nano qualquer editor de texto.
+	vim ~/.zshrc 
+	altere essa parte "export ZSH=/home/miojo/.oh-my-zsh" coloque o diretorio onde está a pasta ".oh-my-zsh" no seu sistema. Por fim so digita zsh e da enter
 
 #Alterações Feitas
 
